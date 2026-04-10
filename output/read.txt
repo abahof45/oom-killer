@@ -1,0 +1,3 @@
+the linux version executable run as
+./crash 
+thanks to me
