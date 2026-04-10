@@ -1,1 +1,2 @@
 its the executable for windows
+run as admin
